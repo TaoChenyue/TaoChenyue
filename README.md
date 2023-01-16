@@ -1,4 +1,5 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TaoChenyue&show_icons=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=TaoChenyue&show_icons=true">
+
 
 ### Hi there :clap:
 + :bulb: Code is a tool to implement my ideas.
